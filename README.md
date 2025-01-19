@@ -3,7 +3,7 @@
 Javascript Interview Questions:
 
 1   Explain the concept of "hoisting" in JavaScript.
-2	What are the differences between JavaScript variables created using let, var or const?	
+2	What are the differences between JavaScript variables created using let, var or const
 3	What is the difference between == and === in JavaScript?
 4	What is the event loop in JavaScript runtimes?
 5	Explain event delegation in JavaScript	
